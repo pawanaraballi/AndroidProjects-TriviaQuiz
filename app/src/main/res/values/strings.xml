@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TriviaQuiz</string>
+    <string name="button_start">Start Quiz</string>
+    <string name="imageView_splash">imageVIew</string>
+    <string name="textView_question">How Geeky Are You?</string>
+    <string name="button_Exit">Exit</string>
+    <string name="button_StartQuiz">Start Quiz</string>
+    <string name="quizresult">Quiz Result</string>
+    <string name="quit">Quit</string>
+    <string name="tryagain">Try again</string>
+    <string name="button_quit">Quit</string>
+    <string name="button_next">Next</string>
+    <string name="imageView_questionImage">ImageView</string>
+</resources>
